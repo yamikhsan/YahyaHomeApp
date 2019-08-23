@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YahyaHomeApp</string>
+
+    <array name="gambar">
+        <item>@drawable/mawar</item>
+        <item>@drawable/mawar2</item>
+        <item>@drawable/mawar3</item>
+    </array>
+
+</resources>
